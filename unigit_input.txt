@@ -1,0 +1,13 @@
+0.0				// AOI
+0.0				// PHI
+45				// truncation
+2				//max part #
+20000				//pitch in nm
+633				//lambda in nm
+1				// # of layers
+(1.35,7.6)			//2 index material
+4				// layer type
+2				// # of partitions
+5000  15000			// partition width end values
+(1.0,0.0)  (1.35,7.6) 		// 0 2	// indices of partition material
+500.0				// layer thickness in nm

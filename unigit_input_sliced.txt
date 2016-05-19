@@ -1,0 +1,8 @@
+    0.000          //AOI 
+    0.000          //PHI 
+40             //Truncation 
+2             //Partitions 
+20000.000      //Pitch 
+  633.000      //Lambda 
+50             //Slices 
+(  1.500 ,  0.000 )      //2 Index Substrate 

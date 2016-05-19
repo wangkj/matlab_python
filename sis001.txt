@@ -1,0 +1,77 @@
+Assume we have a sequence of 8 samples, 5,9; 2; 1,9; 3,5; 6,4; 9,2; 5,1; 3,4.
+dasdsad
+Write down the second sample of the resulting sequence after downsampling with a factor of N = 2. Start with keeping the first sample (from the left).
+
+(use decimal point or comma depending on your regionalization settings of moodle)
+Answer:
+Question 2
+Not yet answered
+Marked out of 2.00
+Flag question
+Question text
+
+Assume we have a short sequence of 4 samples, 5,8; 7,7; 8,1; 7,5. What is its z-transform, for z=9,2?
+
+(use decimal point or comma depending on your regionalization settings of moodle).
+Answer:
+Question 3
+Not yet answered
+Marked out of 1.00
+Flag question
+Question text
+
+Decide whether the following statements are true (check the box) or false (leave it empty)
+Select one or more:
+a. If a full band signal is downsampled by a factor N, N-1 aliasing components appear before removing the zeros between samples. After removing the zeros the normalize frequency response is scaled by a factor N, stretching its spectrum. To perfectly recover the original band-passed signal without any aliasing components, it is only needed to insert N zeros between each sample.
+b. The band-pass Nyquist method allows us to reconstruct a band-pass signal in a filter bank, if we sample with twice the rate as the bandwidth of such signal assuming ideal analysis and synthesis filters.
+c. If a pi/N band-pass signal is downsampled by a factor N, N-1 aliasing components appear before removing the zeros between samples. After removing the zeros the normalize frequency response is scaled by a factor N, stretching its spectrum. To perfectly recover the original band-pass signal without any aliasing components, it is only needed to insert N zeros between each sample.
+Question 4
+Not yet answered
+Marked out of 2.00
+Flag question
+Question text
+
+What is the corresponding linear factor if we have the following dB number:
+
+16,5
+
+(Hint: in your computations use the formula for voltage)
+Answer:
+Question 5
+Not yet answered
+Marked out of 2.00
+Flag question
+Question text
+
+What is the coefficient of the DTFT for \omega=\pi for the following sequence (use a decimal point in your answer):
+
+9,7; 7,9; 7,9; 8,9
+Answer:
+Question 6
+Not yet answered
+Marked out of 2.00
+Flag question
+Question text
+
+Given is a system with sampling rate of 6,0 kHz sampling rate. The audio signal should only contain frequencies smaller than what frequency (in kHz) to avoid aliasing?
+Answer:
+Question 7
+Not yet answered
+Marked out of 1.00
+Flag question
+Question text
+
+Nyquist frequency is defined as half of the sampling frequency.
+Select one:
+True
+False
+Question 8
+Not yet answered
+Marked out of 1.00
+Flag question
+Question text
+
+We upsample the signal, which means we insert N-1 zeroes after each sample, to restore the original sampling rate.
+Select one:
+True
+False 
